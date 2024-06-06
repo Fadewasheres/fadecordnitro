@@ -4,7 +4,7 @@
  * @version 5.3.5
  * @invite nETSphDfW9
  * @source https://github.com/fadewasheres/FadecordNitro
- * @updateUrl https://raw.githubusercontent.com/fadewasheres/FadecordNitro/main/FadecordNitro.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/fadewasheres/FadecordNitro/main/fadecord.plugin.js
  */
 /*@cc_on
 @if(@_jscript)
